@@ -163,18 +163,6 @@ As a result, the reported metrics should be interpreted as a demonstration of ma
 * XGBoost
 * Jupyter Notebook
 
----
-
-## Future Improvements
-
-Potential enhancements include:
-
-* Hyperparameter optimization
-* Cross-validation
-* SHAP-based feature importance analysis
-* Model deployment using Streamlit
-* Testing on real-world churn datasets
-* Experimentation with deeper neural network architectures
 
 ---
 
